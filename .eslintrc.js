@@ -1,5 +1,5 @@
 module.exports = {
   extends: [
-    '@hello10/eslint-config'
+    'airbnb-base/legacy'
   ]
 };
